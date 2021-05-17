@@ -1,0 +1,10 @@
+[#work-experience]
+== Work experience
+'''
+[horizontal]
+Feb 2021 - Present:: **Containers & DevOps Content Developer**
+__Red Hat__
+Jul 2018 - Jan 2021:: **DevOps Engineer**
+__Avature__
+Dec 2014 - Jun 2018:: **Senior System Engineer**
+__Avature__
