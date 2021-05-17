@@ -7,3 +7,4 @@ ifdef::backend-pdf[:notitle:]
 
 include::contact.adoc[]
 include::work-experience.adoc[]
+include::certifications.adoc[]
