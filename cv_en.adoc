@@ -1,0 +1,8 @@
+= Curriculum Vitae
+:size: a4
+:encode: UTF-8
+:lang: es
+:icons: font
+ifdef::backend-pdf[:notitle:]
+
+include::contact.adoc[]
