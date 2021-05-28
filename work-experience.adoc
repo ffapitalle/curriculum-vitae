@@ -1,20 +1,26 @@
 [#work-experience]
 == Work experience
-'''
+
 [horizontal]
 Feb 2021 - Present:: **Containers & DevOps Content Developer**
-__Red Hat__
+__https://www.redhat.com/[Red Hat]__
+Designs and develops technical training curriculum and labs for customer base using deep technical expertise. Ensures that training courses address all levels of customers in the use of company products/services. Lead cross-functional efforts with engineering to develop specifications for course content. Assesses customer needs for future course development. Use technical expertise to resolve escalated customer tickets and write reference architectures for newly discovered bugs.
 Jul 2018 - Jan 2021:: **DevOps Engineer**
-__Avature__
+__https://www.avature.net/[Avature]__
 Dec 2014 - Jun 2018:: **Senior System Engineer**
-__Avature__
+__https://www.avature.net/[Avature]__
 Jan 2009 - Nov 2014:: **System / Network Administrator**
-__Cooperativa Obrera Ltda.__
+__https://cooperativaobrera.coop/[Cooperativa Obrera Ltda.]__
+Plans, develops and maintains on-premise servers that compose the company infrastructure. Ensures high availability of critical services and monitors real time behaviour.
 Dec 2002 - Dec 2008:: **Software Developer**
-__Cooperativa Obrera Ltda.__
+__https://cooperativaobrera.coop/[Cooperativa Obrera Ltda.]__
+Designs,, develops, tests and deploys a PoS system, based on Linux, C++., and  a PoS backend dashboard, based on PHP and Mysql.  Installs,  maintains, and configures  Linux servers for running all PoS components.
 Sep 2002 - Nov 2002:: **Technical Support Enginner**
-__Garcia Navarro & Cia. S.A.__
+__http://www.pullman.com.ar/[Garcia Navarro & Cia. S.A.]__
+Performs first level technical support. Executes help desk tasks. Assists employees with computer related issues. Plans and deploys a small size LAN network for an annex office.
 Jan 2002 - May 2002:: **Network Architect Intern**
-__Schlumberger__
+__https://www.slb.com/[Schlumberger]__
+Works closely to the Network Architect, researches application response times of a global application.
 Feb 2001 - Dec 2001:: **Undergraduate Teaching Assistant**
-__Universidad Nacional del Sur__
+__https://www.uns.edu.ar/[Universidad Nacional del Sur]__ 
+Mentors students to understand the course contents. Helps the instructor to teach. Conducts the exams.

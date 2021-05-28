@@ -1,0 +1,13 @@
+[#publications]
+== Publications
+
+Fapitalle, F., Vazquez, G.E., Ponzoni, I., Brignole, N.B.:: _Algoritmos Paralelos/Distribuidos para
+Búsquedas en Profundidad sobre Grafos_. Mecánica Computacional, Vol. XX, pp. 468-473, AMCA, 2001. http://www.amcaonline.org.ar/ojs/index.php/mc/article/view/1825
+Fapitalle, F., Vazquez, G.E., Ponzoni, I., Brignole, N.B.:: _A Descentralized Parallel-Distributed
+Observability Algorithm_. Registros oficiales del Fifth World Congress on Computational Mechanics
+(WCCM V), Julio 7-12, 2002, Viena, Austria. Editores: Mang, H.A.; Rammerstorfer, F.G.;
+Eberhardsteiner, J., Publicación: Vienna University of Technology, Austria, ISBN 3-9501554-0-6.
+Federico Fapitalle, Javier Echaiz, Jorge Ardenghi.:: _Control de Tráfico y Administración de Ancho de
+Banda en Linux con tcng_. VII Workshop de Investigadores en Ciencias de la Computación (WICC
+2005), ISBN 950-665-337-2, pp. 203-207. Universidad Nacional de Río Cuarto, Córdoba, 13 y 14 de
+Mayo de 2005. http://es.scribd.com/doc/37291617/44-TRAFICO
