@@ -12,11 +12,11 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Build container
-        id: adocbuild
-        uses: avattathil/asciidoctor-action@master
+      - name: asciidoctor-ghpages
+        uses: manoelcampos/asciidoctor-ghpages-action@v2
         with:
-          program: "asciidoctor-pdf cv_en.adoc"
+          asciidoctor_params: --attribute=nofooter
+          pdf_build: true
       - name: Upload PDF Artifact
         uses: actions/upload-artifact@v2
         with:
