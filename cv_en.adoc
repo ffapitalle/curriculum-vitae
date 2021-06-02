@@ -5,6 +5,7 @@
 :icons: font
 ifdef::backend-pdf[:notitle:]
 
+
 include::about.adoc[]
 include::contact.adoc[]
 include::work-experience.adoc[]
