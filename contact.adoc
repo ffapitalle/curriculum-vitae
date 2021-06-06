@@ -1,7 +1,0 @@
-[sidebar]
---
-icon:phone[] +54 9 291 422-1556 +
-icon:envelope-o[] federico.fapitalle@gmail.com +
-icon:linkedin[] https://www.linkedin.com/in/federico-fapitalle/ +
-icon:github[] https://github.com/ffapitalle
---

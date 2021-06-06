@@ -1,9 +1,0 @@
-[#certifications]
-== Certifications
-
-[horizontal]
-*Learning Docker* Nov 2020. _Linkedin Learning_. +
-*Getting Started with Google Kubernetes Engine* Sep 2020. _Coursera_.
-__https://www.coursera.org/account/accomplishments/certificate/TNAETNZMZP56[See credential]__ +
-*Red Hat Certified System Administrator (RHCSA)* Jun 2013. _Red Hat_.
-__https://rhtapps.redhat.com/verify?certId=130-099-195[See credential]__
