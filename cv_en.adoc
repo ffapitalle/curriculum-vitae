@@ -1,12 +1,12 @@
-= Curriculum Vitae
+= Federico Fapitalle
 :size: a4
 :encode: UTF-8
 :lang: es
 :icons: font
 ifdef::backend-pdf[:notitle:]
 
-include::about.adoc[]
 include::contact.adoc[]
+include::about.adoc[]
 include::work-experience.adoc[]
 include::education.adoc[]
 include::certifications.adoc[]

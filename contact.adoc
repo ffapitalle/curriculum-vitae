@@ -1,5 +1,4 @@
 [sidebar]
-.Contact
 --
 icon:phone[] +54 9 291 422-1556 +
 icon:envelope-o[] federico.fapitalle@gmail.com +
