@@ -1,7 +1,6 @@
 [#work-experience]
 == Work experience
 
-[horizontal]
 Feb 2021 - Present:: **Containers & DevOps Content Developer**
 __https://www.redhat.com/[Red Hat]__
 Designs and develops technical training curriculum and labs for customer base using deep technical expertise. Ensures that training courses address all levels of customers in the use of company products/services. Leads cross-functional efforts with engineering to develop specifications for course content. Assesses customer needs for future course development. Uses technical expertise to resolve escalated customer tickets and write reference architectures for newly discovered bugs.
