@@ -1,0 +1,12 @@
+[#education]
+== Educación
+
+[horizontal]
+Universidad Nacional del Sur::
+1996 - 2001. +
+Carrera de grado, Ciencias de la Computación +
+_"Licenciado en Ciencias de la Computacion"_
+Universidad Nacional de La Plata::
+2013 - _Incompleto_. +
+Carrera de posgrado, Ciencias de la Computación +
+_"Magister en Redes de Datos"_

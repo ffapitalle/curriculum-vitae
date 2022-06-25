@@ -1,0 +1,13 @@
+== Federico Fapitalle
+:size: a4
+:encode: UTF-8
+:lang: es
+:icons: font
+ifdef::backend-pdf[:notitle:]
+
+include::contact.adoc[]
+include::es/work-experience.adoc[]
+include::es/education.adoc[]
+include::es/certifications.adoc[]
+include::es/scholarships.adoc[]
+include::es/publications.adoc[]

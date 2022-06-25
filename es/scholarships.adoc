@@ -1,0 +1,6 @@
+[#scholarships]
+== Becas
+
+Abr 2001 - Feb 2002:: **Introducción a la Investigación para Alumnos Avanzados**
+__https://www.uns.edu.ar/[Universidad Nacional del Sur]__
+Otorgada por la Secretaría General de Ciencia y Tecnología, (UNS). Desarrollo del tema "Algoritmos Paralelo/Distribuidos para Búsquedas en Profundidad sobre Grafos".
