@@ -3,9 +3,7 @@
 
 Mar 2022 - Actualidad:: **Site Reliability Engineer**
 __https://etermax.com/[Etermax]__
-Diseño e implementación de plataformas Kubernetes. Implementación de herramientas de integración continua y entrega continua.
-Sep 2021 - Dic 2021:: **Ayudante de Cátedra A**
-__https://www.uns.edu.ar/[Universidad Nacional del Sur]__ Cargo en la asignatura "Sistemas Operativos".
+Diseño e implementación de plataformas Kubernetes. Implementación de herramientas de observabilidad, integración continua y entrega continua.
 Feb 2021 - Feb 2022:: **Containers & DevOps Content Developer**
 __https://www.redhat.com/[Red Hat]__
 Diseño y desarrollo de contenido para currícula de capacitación técnica en los productos de la empresa. 
@@ -27,5 +25,12 @@ Soporte técnico de primer nivel. Planificación y despliegue de una red de áre
 Ene 2002 - May 2002:: **Network Architect Intern**
 __https://www.slb.com/[Schlumberger]__
 Pasantía. Parte de _OFS IT Architecture Team_. Análisis y modelado del comportamiento de aplicaciones sobre redes de área amplia (WAN).
+
+=== Experiencia Docente
+
+Ago 2022 - Dic 2022:: **Ayudante de Cátedra A**
+__https://www.uns.edu.ar/[Universidad Nacional del Sur]__ Cargo en la asignatura "Sistemas Operativos".
+Sep 2021 - Dic 2021:: **Ayudante de Cátedra A**
+__https://www.uns.edu.ar/[Universidad Nacional del Sur]__ Cargo en la asignatura "Sistemas Operativos".
 Feb 2001 - Dic 2001:: **Ayudante de Cátedra B**
 __https://www.uns.edu.ar/[Universidad Nacional del Sur]__ Cargo en las asignaturas "Resolución de Problemas y Algoritmos" y "Estructuras de Datos y Algoritmos".
